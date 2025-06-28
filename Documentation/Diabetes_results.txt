@@ -1,0 +1,18 @@
+🔹 Activity 1: Specify the Diabetes Results
+
+Objective:
+	Explore the influence of diabetic factors on liver cirrhosis and identify relevant features in the dataset that reflect this connection.
+
+Work Done:
+
+	Researched clinical studies that show the correlation between diabetes and liver damage.
+
+	Identified key diabetic indicators such as blood sugar, glucose levels, insulin resistance, and their impact on the liver.
+
+	Mapped these indicators to relevant columns in the chosen liver dataset for better prediction.
+
+Outcome:
+
+	Validated the inclusion of diabetes-related attributes for improved model accuracy.
+
+	Highlighted the multi-system nature of cirrhosis for comprehensive prediction modeling.
